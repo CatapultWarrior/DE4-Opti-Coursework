@@ -25,7 +25,12 @@ Graph.m
 
 Execution time
 -------
-The execution time is approximately 0.2 - 6 seconds depending on algorithm. GA will take the longest.
+The execution time is approximately 0.2 - 6 seconds depending on algorithm. GA will usually take the longest.
+
+Processor used: Core i7-4710MQ
+
+OS: Windows 7 Professional
+
 
 Dependencies
 -------
