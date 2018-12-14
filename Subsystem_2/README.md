@@ -5,7 +5,7 @@ Subsystem 2: Catapult Efficiency Optimisation
 
 Main Scripts 
 -------
-*Four algorithms are available: SQP, GA, Pattern Search and Interior Point*
+*Four algorithms are available: SQP, GA, Pattern Search and Interior Point. SQP is the most effective.*
 
 **MATLAB scripts should be run:**
 
