@@ -8,12 +8,17 @@ Main Scripts
 *Four algorithms are available: SQP, GA, Pattern Search and Interior Point*
 
 MATLAB scripts should be run:
+
 SQP.m
+
 GA.m
+
 PS.m
+
 IP.m
 
 Visualisation Script
+-------
 *Visualisation of shape of objective function and some constraints*
 Graph.m
 
