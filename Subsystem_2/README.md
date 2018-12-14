@@ -7,7 +7,7 @@ Main Scripts
 -------
 *Four algorithms are available: SQP, GA, Pattern Search and Interior Point*
 
-MATLAB scripts should be run:
+**MATLAB scripts should be run:**
 
 SQP.m
 
